@@ -9,12 +9,14 @@ A modern, responsive website for the student council at Bahir Dar University STE
 - **Council Members** - Display with photos and roles
 - **Events Section** - Upcoming activities and events
 - **Contact Form** - Easy communication
+- **Voting section** -fair election
 - **Modern UI** - Beautiful gradients and animations
 
 ### Admin Panel
 - **Secure Login** - Password protected admin access
 - **Member Management** - Add, edit, delete council members
 - **Event Management** - Create and manage events
+- **voting management** - manage voters
 - **Photo Upload** - Support for member and event photos
 - **Real-time Updates** - Changes appear immediately on main site
 
@@ -151,14 +153,6 @@ The website uses a purple/blue gradient theme. To change colors, edit the CSS va
 - **cPanel hosting**
 - **FTP upload**
 - **Full control**
-
-## 📞 Contact Information
-
-**Bahir Dar University STEM Incubation Center**
-- **Email**: studentcouncil@bdu.edu.et
-- **Phone**: +251 911 234 567
-- **Location**: STEM Incubation Center, Bahir Dar University
-- **Office Hours**: Mon-Fri 8:00 AM - 5:00 PM
 
 ## 📄 License
 
